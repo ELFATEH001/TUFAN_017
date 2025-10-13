@@ -30,3 +30,6 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
+
+# environment
+TU_env/
